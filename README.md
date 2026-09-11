@@ -45,4 +45,4 @@ produce a **fully green** run: both `test` and `deploy-check` pass.
    incorrectly and is missing a minimal `permissions:` block.
 
 
-#solve
+......

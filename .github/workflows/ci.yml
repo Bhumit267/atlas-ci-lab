@@ -7,9 +7,10 @@ on:
   pull_request:
     branches:
       - main    
-  permission:
-    contents : read 
-    issues : write
+  
+permission:
+  contents : read 
+  issues : write
     
 jobs:
   test:
